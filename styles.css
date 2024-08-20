@@ -1,0 +1,23 @@
+body {
+    padding-top: 56px; /* Adjust for fixed navbar */
+}
+
+.hero {
+    background: url('images/hero-bg.jpg') no-repeat center center;
+    background-size: cover;
+    color: #fff;
+}
+
+section {
+    padding: 60px 0;
+}
+
+footer {
+    background-color: #343a40;
+}
+
+/* Card Styles */
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
